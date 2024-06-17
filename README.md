@@ -35,7 +35,7 @@ El proyecto del curso es Implementar: React
 ## 🔎 Deploy
 <div align="center">
   <h3>
-    <a href="public/img/header.png" >
+    <a href="https://org-bay-zeta.vercel.app/" >
       🔗 Visitar la Pagina Org
     </a>
 </div>
