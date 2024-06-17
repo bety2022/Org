@@ -21,7 +21,7 @@ El proyecto del curso es Implementar: React
 
 
 <p align="center" >
-     <img width="800" heigth="400" src="public/img/header.png">
+     <img width="1000" heigth="600" src="public/img/header.png">
      
 </p>
 
