@@ -1,4 +1,4 @@
-<h1 align="center"> Reac / Pagina ORG / PROGRAMA ONE - ALURA </h1>
+<h1 align="center"> React / Pagina ORG / PROGRAMA ONE - ALURA </h1>
 
  <h1 align="center"> Front End G6 - ONE </h1>
 
