@@ -26,8 +26,6 @@ El proyecto del curso es Implementar: React
 </p>
 
 
-<p align="center" >
-     <img width="600" heigth="400" src="imagenes/Portada.png">   
 </p>
 
 <br />
@@ -37,7 +35,7 @@ El proyecto del curso es Implementar: React
 ## 🔎 Deploy
 <div align="center">
   <h3>
-    <a href="[https://bety2022.github.io/Proyecto-Fokus/](https://org-bay-zeta.vercel.app)" >
+    <a href="public/img/header.png" >
       🔗 Visitar la Pagina Org
     </a>
 </div>
