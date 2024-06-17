@@ -42,6 +42,9 @@ El proyecto del curso es Implementar: React
 <br />
 
 ## 🛠️ Herramientas implementadas 
+  - NodeJS
+  - JSON-server
+  - API
   - DOM
   - Layouts
   - Flexbox
@@ -49,6 +52,8 @@ El proyecto del curso es Implementar: React
   - HTML
   - JavaScript
   - Git || GitHub || GitHub Pages
+  - Figma
+  - React
 
 
 <div align="center">
